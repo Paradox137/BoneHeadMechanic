@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using BHMechanic.Code.EntityModule;
 using BHMechanic.Code.UIModule;
-using UnityEngine;
 
 namespace BHMechanic.Code.CollectionModule
 {

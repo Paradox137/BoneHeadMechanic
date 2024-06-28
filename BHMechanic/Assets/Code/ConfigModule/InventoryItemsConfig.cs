@@ -1,6 +1,5 @@
 using System;
 using System.Collections.Generic;
-using BHMechanic.Code.EntityModule;
 using UnityEngine;
 
 namespace BHMechanic.Code.ConfigModule
